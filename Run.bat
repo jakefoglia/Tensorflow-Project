@@ -1,0 +1,2 @@
+:: installDependencies
+python DogsCats.py
