@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=gT4F3HGYXf4
 """
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from random import shuffle
 from tqdm import tqdm
 import time
@@ -18,7 +18,6 @@ import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D
 from tensorflow.keras.callbacks import TensorBoard
-
 
 TRAIN_DIR = "cats_vs_dogs/train"
 TEST_DIR = "cats_vs_dogs/test"

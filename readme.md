@@ -19,3 +19,7 @@ For example, if you enter 5, the model will examine the file test/5.jpg and pred
 
 # Credits
 Some code, particularly the portion where the neural network is generated and trained, was taken from the following YouTube series: https://www.youtube.com/watch?v=gT4F3HGYXf4
+
+# YouTube Demonstration
+A video demonstrating the results of this project is available here:
+https://youtu.be/4hGCEo9ebCQ
