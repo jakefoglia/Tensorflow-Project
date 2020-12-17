@@ -111,7 +111,7 @@ def predict(model, file_id):
     x = x / 255.0
 
     return model.predict_on_batch(x)[0][0]
-
+ 
 def main():
     train_model = True # train new model ?
     if(train_model) :
